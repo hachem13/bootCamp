@@ -1,4 +1,3 @@
 https://www.sololearn.com/Profile/17191910/Python
 
-.. image :: images/Capture d’écran 2020-02-21 à 20.01.37
-    :width: 400
+![capture](./images/Capture d’écran 2020-02-21 à 20.01.37.png)
